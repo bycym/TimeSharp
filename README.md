@@ -2,7 +2,8 @@
 A really really really simple stopper and timer.
 You can set allert message.
 
-Download:
+Download (Win binary):
+
 https://gumroad.com/products/hYRpI
 
 Screenshots:
