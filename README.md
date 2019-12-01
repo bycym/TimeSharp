@@ -7,14 +7,8 @@ https://gumroad.com/products/hYRpI
 
 Screenshots:
 
-<p align="center">
-<img alt="screenshot" src="https://github.com/bycym/TimeSharp/tree/master/Screenshots/Timer-Stopper.png">
-</p>
+![blur](https://raw.githubusercontent.com/bycym/TimeSharp/master/Screenshots/Timer-Stopper.png) 
 
-<p align="center">
-<img alt="screenshot" src="https://github.com/bycym/TimeSharp/tree/master/Screenshots/Timer.png">
-</p>
+![transparent](https://raw.githubusercontent.com/bycym/TimeSharp/master/Screenshots/Timer.png) 
 
-<p align="center">
-<img alt="screenshot" src="https://github.com/bycym/TimeSharp/tree/master/Screenshots/Stopper.png">
-</p>
+![acrylic](https://raw.githubusercontent.com/bycym/TimeSharp/master/Screenshots/Stopper.png)
